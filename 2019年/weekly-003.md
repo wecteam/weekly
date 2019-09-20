@@ -17,7 +17,7 @@
 
 本文作者@**黄浩群**。loader 和 plugins 是 webpack 系统的两大重要组成元素。依靠对 loader、plugins 的不同组合搭配，我们可以灵活定制出高度适配自身业务的打包构建流程。
 
-#### 3、[JavaScript性能开销之2019](https://mp.weixin.qq.com/s?__biz=MzIzNzA0NzE5Mg==&mid=2247487966&amp;idx=1&amp;sn=8893053a653fa1cd6b8ccdbd417754f0)
+#### 3、[JavaScript性能开销之2019](https://mp.weixin.qq.com/s/9djMvcl18hltRc2hN7aWDQ)
 
 下载和执行时间是加载脚本节省性能开销的主要瓶颈，文章分析了前端性能的瓶颈以及优化思路。
 
