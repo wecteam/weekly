@@ -4,6 +4,6 @@
 
 ## 2019
 
-**九月**：[第 004 期](2019年/weekly-004.md):high_brightness: | [第 003 期](2019年/weekly-003.md) | [第 002 期](2019年/weekly-002.md)
+**九月**：[第 005 期](2019年/weekly-005.md):high_brightness: | [第 004 期](2019年/weekly-004.md) | [第 003 期](2019年/weekly-003.md) | [第 002 期](2019年/weekly-002.md)
 
 **八月**：[第 001 期](2019年/weekly-001.md)
