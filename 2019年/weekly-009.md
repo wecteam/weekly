@@ -10,7 +10,7 @@
 
 #### 1、[【原创】手写一个四则运算表达式转换成AST的方法（下）](https://mp.weixin.qq.com/s/lHYZja_EFRl4s5UQH-kL3w)
 
-本文作者@吴冠禧。[上篇](https://mp.weixin.qq.com/s/HMggcevKJ9afZFqHgm0e5A)我们利「用有限状态机」成功实现了「词法分析」，本篇将进入到「语法分析」及后续部分。
+本文作者@吴冠禧。[上篇](https://mp.weixin.qq.com/s/HMggcevKJ9afZFqHgm0e5A)我们利用「有限状态机」成功实现了「词法分析」，本篇将进入到「语法分析」及后续部分。
 
 #### 2、[【原创】WebAssembly实战-在浏览器中使用ImageMagick](https://mp.weixin.qq.com/s/FiJYBjestHUk22z_nSYwrQ)
 
