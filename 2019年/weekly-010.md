@@ -11,15 +11,15 @@
 
 ## 周刊文章
 
-#### 1、[[原创]小程序工程化探索](https://mp.weixin.qq.com/s/_NSJTQ-4-8gTnwTVK-tn0A)
+#### 1、[【原创】小程序工程化探索](https://mp.weixin.qq.com/s/_NSJTQ-4-8gTnwTVK-tn0A)
 
 本文作者@**陈晓强**。小程序是近两年兴起的最热门的技术之一了，但不同于 H5 在工程化方面的成熟，小程序在工程化方面的探讨并不多。京东社交电商前端团队是最早的那一批小程序开发人员，有多早呢，我想可以用内测玩家这个词来形容。两年多以来，我们在工程化方面做了很多积累：包括规范化、组件化、工具化、自动化测试、持续集成系统等
 
-#### 2、[[译]V8 引擎和 JavaScript 优化建议](https://mp.weixin.qq.com/s/W6y_C0SzrFph7o59WIwUzQ)
+#### 2、[【译】V8 引擎和 JavaScript 优化建议](https://mp.weixin.qq.com/s/W6y_C0SzrFph7o59WIwUzQ)
 
 本文作者@**马雪琴**。V8 是谷歌用于编译 JavaScript 的引擎，Firefox 同样也有一个，叫 SpiderMonkey，它和 V8 有一些不同，但总体颇为相似。我们将在本篇文章中讨论 V8。
 
-#### 3、[[原创]你应该知道的折叠屏手机适配](https://mp.weixin.qq.com/s/FKHZeT2zZgn4SrEvxrxINA)
+#### 3、[【原创】你应该知道的折叠屏手机适配](https://mp.weixin.qq.com/s/FKHZeT2zZgn4SrEvxrxINA)
 
 本文作者@**龙朝忠**。随着三星 Galaxy Fold 和华为 Mate X 的发布，前端同学将面临一个新的任务：折叠屏的适配。折叠屏虽距离普及可能还有很长一段路，大多数公司还未将折叠屏列入适配的范围，但是提前研究下折叠屏的适配还是极好的。
 
