@@ -6,7 +6,7 @@
 
 ## 2020
 
-**一月**：[第 019 期](2020年/weekly-019.md) :high_brightness: | [第 018 期](2020年/weekly-018.md)
+**一月**：[第 020 期](2020年/weekly-020.md) :high_brightness: | [第 019 期](2020年/weekly-019.md) | [第 018 期](2020年/weekly-018.md)
 
 ## 2019
 
