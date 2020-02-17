@@ -6,7 +6,9 @@
 
 ## 2020
 
-**一月**：[第 020 期](2020年/weekly-020.md) :high_brightness: | [第 019 期](2020年/weekly-019.md) | [第 018 期](2020年/weekly-018.md)
+**二月**：[第 021 期](2020年/weekly-021.md) :high_brightness:
+
+**一月**：[第 020 期](2020年/weekly-020.md) | [第 019 期](2020年/weekly-019.md) | [第 018 期](2020年/weekly-018.md)
 
 ## 2019
 
@@ -20,3 +22,4 @@
 
 **八月**：[第 001 期](2019年/weekly-001.md)
 
+![](http://img.smyhvae.com/WecTeam.jpg)
