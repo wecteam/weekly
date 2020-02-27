@@ -9,7 +9,7 @@
 
 ## 周刊文章
 
-### 1、[【原创】MPM 卖场可视化搭建系统 — 架构流程设计](https://mp.weixin.qq.com/s/w3sT_K4NOfoTYcdkXu6_OA)
+#### 1、[【原创】MPM 卖场可视化搭建系统 — 架构流程设计](https://mp.weixin.qq.com/s/w3sT_K4NOfoTYcdkXu6_OA)
 
 我们所谈到的 MPM，并不单纯只是运营同学直接面对的卖场编辑系统，MPM 生成的卖场页面也是 MPM 一个重要的组成部分，因此，在架构上，MPM 主要由编辑系统和页面解析引擎构成。
 
