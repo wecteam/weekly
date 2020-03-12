@@ -3,7 +3,7 @@
 
 ## 前言
 
-[WecTeam 前端周刊](https://github.com/wecteam/weekly)<github.com/wecteam/weekly>是由京东社交电商部维C团维护的技术周刊，每周从前端同学阅读的技术文章中精选而来，每周五出刊。第 024 期发布时间：2020-03-06。
+WecTeam 前端周刊（<https://github.com/wecteam/weekly>）是由京东社交电商部维C团维护的技术周刊，每周从前端同学阅读的技术文章中精选而来，每周五出刊。第 024 期发布时间：2020-03-06。
 
 更多「原创」前端技术文章，欢迎关注微信公众号「WecTeam」。
 
@@ -12,7 +12,7 @@
 
 #### 1、[前端与 Serverless 同行，哇哦视频这半年](https://fed.taobao.org/blog/taofed/do71ct/ftontend-and-serverless-forward/)
 
-本次则会为大家分享哇哦视频在这半年中发生的故事，与大家一起看看在一线业务同学的眼中，Serverless 会给前端同学带来什么，而我们又能收获什么。
+本次为大家分享哇哦视频在这半年中发生的故事，与大家一起看看在一线业务同学的眼中，Serverless 会给前端同学带来什么，而我们又能收获什么。
 
 #### 2、[如何通过CSS向JS传参](https://mp.weixin.qq.com/s/IKV4L2MV9PuJP12Yw1jH4g)
 
