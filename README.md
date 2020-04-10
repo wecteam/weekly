@@ -6,7 +6,7 @@
 
 ## 2020
 
-**四月**：[第 028 期](2020年/weekly-028.md) :high_brightness:
+**四月**：[第 029 期](2020年/weekly-029.md) :high_brightness: | [第 028 期](2020年/weekly-028.md)
 
 **三月**：[第 027 期](2020年/weekly-027.md)| [第 026 期](2020年/weekly-026.md) | [第 025 期](2020年/weekly-025.md) | [第 024 期](2020年/weekly-024.md)
 

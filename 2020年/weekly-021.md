@@ -35,6 +35,6 @@
 
 react形式的Vue组件。
 
-#### 7、[高质量前端快照方案：来自页面的「自拍」](https://mp.weixin.qq.com/s/ebxO5MtkQHi-U21MO6LIuA)
+#### 7、[高质量前端快照方案：来自页面的「自拍」](https://musicfe.dev/canvas-snapshot/)
 
 HTML 转图片以及常见问题解决方案。
