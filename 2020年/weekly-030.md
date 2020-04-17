@@ -19,7 +19,6 @@ Chrome DevTools 提供的功能非常丰富，包含 DOM、debugger、网络、�
 
 本文基于 Ant Design 多年来的项目运作，与大家交流开源项目的运作经验，主要内容围绕项目文档、网站、代码规范和风格、单元测试、发布规范、开源项目运营等几大方面，为大家提供实用的指引。
 
-PS：本文此次被推荐了两次（@**周强**也推荐了一次）。
 
 #### 3、[Electron 在 Taro IDE 的开发实践](https://aotu.io/notes/2020/04/07/electron-in-taro-ide/index.html)
 
