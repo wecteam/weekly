@@ -14,7 +14,7 @@ WecTeam 前端周刊（<https://github.com/wecteam/weekly>）是由京东社交�
 
 #### 2、[对阮一峰《ES6 入门》箭头函数 this 描述的探究](https://mp.weixin.qq.com/s/_is9UenJNXT7NZ14njupYg)
 
-上周发布的[别低估自己，但，这道题，真的有点难](https://mp.weixin.qq.com/s/1iw1MBfitockO5U0ZJIeXQ)在部分群里引起了一些讨论，其中有一点是关于箭头函数的 this 指针的问题。使用了阮一峰《ES6 入门》文章的内容来反驳。在今日得到阮一峰老师的解释之后，特更新本文。
+上周发布的文章[《别低估自己，但，这道题，真的有点难》](https://mp.weixin.qq.com/s/1iw1MBfitockO5U0ZJIeXQ)在部分群里引起了一些讨论，其中有一点是关于箭头函数的 this 指针的问题。使用了阮一峰《ES6 入门》文章的内容来反驳。在今日得到阮一峰老师的解释之后，特更新本文。
 
 #### 3、[深度解读浏览器全面禁用三方 Cookie](https://mp.weixin.qq.com/s/7aWSZtitdOuMrRaxMZoYVQ)
 
