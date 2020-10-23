@@ -6,14 +6,14 @@ WecTeam 前端周刊（<https://github.com/wecteam/weekly>）是由京东旗下�
 
 ## 周刊文章
 
-#### 1、[适合WEB和APP设计的字体与排版指南] (https://www.shejidaren.com/ziti-panbai-zhinan.html )
+#### 1、[适合WEB和APP设计的字体与排版指南](https://www.shejidaren.com/ziti-panbai-zhinan.html)
 
 超详细的对字体应用的讲解，对前端开发大有裨益，答应我，不看也要收藏！
 
 
 #### 2、[从编译过程，理解 Vue3 静态节点提升过程](https://mp.weixin.qq.com/s/JYRgC0TJo7Yo-TZrQWOtAA)
 
-本文通过对Vue的编译过程入手对Vue3静态节点做了详细介绍，并分析了Vue3是如何做到静态节点提升，以及静态节点提升的作用 
+本文通过对Vue的编译过程入手对Vue3静态节点做了详细介绍，并分析了Vue3是如何做到静态节点提升，以及静态节点提升的作用。
 
 
 #### 3、[2020年你不应该错过的CSS新特性](https://mp.weixin.qq.com/s/HbfThzav79GFS-sMirAINA)
