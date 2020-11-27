@@ -8,7 +8,7 @@ WecTeam 前端周刊（<https://github.com/wecteam/weekly>）是由京东旗下�
 
 #### 1、[史上最快破5亿用户的互动 - 2020双11养猫技术大揭秘](https://mp.weixin.qq.com/s/_oTt-RG48hRmX2X15MuX8w)
 
-淘宝养猫技术大揭秘，值得学习 
+淘宝养猫技术大揭秘，值得学习。
 
 #### 2、[前端团队研发效能提升的探索与实践](https://mp.weixin.qq.com/s/F2b5nXEKpygX9vCFW1YhYg)
 
