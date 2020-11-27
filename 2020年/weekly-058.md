@@ -6,15 +6,14 @@ WecTeam 前端周刊（<https://github.com/wecteam/weekly>）是由京东旗下�
 
 ## 周刊文章
 
-#### 1、[前端如何突破技术与业务的瓶颈 — Shopee一年半记](https://mp.weixin.qq.com/s/Uw7TCxnHLmdeUItaUKx5Hg)
+#### 1、[前端如何突破技术与业务的瓶颈 — Shopee 一年半记](https://mp.weixin.qq.com/s/Uw7TCxnHLmdeUItaUKx5Hg)
 
-文章主要分享从个人贡献者到技术架构师与管理者转变、带领单项技术到带领多项技术、带技术到带业务的三个作为前端，可能经历的瓶颈突破，所做的一些思考与努力。
+文章主要分享三个作为前端可能经历的瓶颈，以及作者为了突破这些瓶颈，所做的一些思考与努力。
 
+#### 2、[4982 亿背后的前端技术—2020 天猫双 11 前端体系大揭秘](https://mp.weixin.qq.com/s/vhATyyTuIER4c32ZIYo2pw)
 
-#### 2、[4982亿背后的前端技术—2020天猫双11前端体系大揭秘](https://mp.weixin.qq.com/s/vhATyyTuIER4c32ZIYo2pw)
+本文整体介绍了一下淘系前端在今年双11的思考和沉淀，将 FaaS、PHA、ESR 等技术应用在更多场景，分别向服务端、客户端、CDN 节点进一步拓展了前端的能力和边界；应用视觉还原、一体化研发等提升研发效率，大幅缓解资源瓶颈等等。
 
-本文整体介绍了一下淘系前端在今年双11的思考和沉淀，将FaaS、PHA、ESR等技术应用在更多场景，分别向服务端、客户端、CDN节点进一步拓展了前端的能力和边界；应用视觉还原、一体化研发等提升研发效率，大幅缓解资源瓶颈等等。 
+#### 3、[双十一会场体验 SSR 优化 - 走向更复杂的渲染架构](https://mp.weixin.qq.com/s/2SNzhRnY9mU41uSWsdw7Zw)
 
-#### 3、[双十一会场体验SSR优化 - 走向更复杂的渲染架构](https://mp.weixin.qq.com/s/2SNzhRnY9mU41uSWsdw7Zw)
-
-本文将从服务端、前端两个角度介绍阿里在 SSR 上的方案与经验
+本文将从服务端、前端两个角度介绍阿里在 SSR 上的方案与经验。
