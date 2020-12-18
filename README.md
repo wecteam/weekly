@@ -43,4 +43,4 @@ WecTeam（维C团）是京东旗下[京喜事业群](http://wecteam.io/)的前�
 
 **八月**：[第 001 期](2019年/weekly-001.md)
 
-![](http://img.smyhvae.com/WecTeam.jpg)
+![](https://img.smyhvae.com/WecTeam_2021.jpeg)
