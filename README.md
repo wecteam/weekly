@@ -1,9 +1,10 @@
 # weekly
 
-[WecTeam 周刊](https://github.com/wecteam/weekly)是由京东社交电商部维C团维护的技术周刊，每周从前端同学阅读的技术文章中精选而来，每周五发布。
+[WecTeam 周刊](https://github.com/wecteam/weekly)是由 WecTeam 维护的技术周刊，每周从前端同学阅读的技术文章中精选而来，每周五发布。
+
+WecTeam（维C团）是京东旗下[京喜事业群](http://wecteam.io/)的前端技术团队，主要专注于前端工程化、Web 性能优化、小程序开发、Severless、多端复用、可视化搭建等前沿技术研究。
 
 更多「原创」前端技术文章，欢迎关注微信公众号「WecTeam」。
-
 ## 2020
 
 **十二月**：[第 060 期](2020年/weekly-060.md):high_brightness:
