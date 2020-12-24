@@ -1,6 +1,6 @@
 ## 前言
 
-WecTeam 前端周刊（<https://github.com/wecteam/weekly>）是由 WecTeam 维护的技术周刊，每周从前端同学阅读的技术文章中精选而来，每周五出刊。第 062 期发布时间：2020-12-18。
+WecTeam 前端周刊（<https://github.com/wecteam/weekly>）是由 WecTeam 维护的技术周刊，每周从前端同学阅读的技术文章中精选而来，每周五出刊。第 063 期发布时间：2020-12-25。
 
 WecTeam（维C团）是京东旗下京喜事业群的前端技术团队，主要专注于前端工程化、Web 性能优化、小程序开发、Severless、多端复用、可视化搭建等前沿技术研究。
 
