@@ -10,7 +10,7 @@ WecTeam（维C团）是京东旗下京喜事业群的前端技术团队，主要
 ## 周刊文章
 
 #### 1、[2021 年前端趋势预测](https://mp.weixin.qq.com/s/wS9uDeNp5jf7oopNRd3Y0Q)
-2021 年前端趋势预测
+2021 年前端趋势预测。
 
 #### 2、[2020 前端技术发展回顾](https://mp.weixin.qq.com/s/zP1ijs-ns2qf4Bee_IuLtg)
 此文章陈列总结了 2020 年前端技术的发展。
