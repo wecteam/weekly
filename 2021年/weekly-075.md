@@ -9,8 +9,10 @@ WecTeam（维C团）是京东旗下京喜事业群的前端技术团队，主要
 
 ## 周刊文章
 
-#### 1、[设计稿（UI视图）自动生成代码方案的探索](https://juejin.cn/post/6943851894666330143)
-了解视觉稿转DSL 和 DSL转代码的实现逻辑。
+### 1、[设计稿（UI视图）自动生成代码方案的探索](https://juejin.cn/post/6943851894666330143)
 
-#### 2、[跨平台Web Canvas渲染引擎架构的设计与思考](https://mp.weixin.qq.com/s/-_4KZx54DblCylzh-kjJtw)
-这篇文章主要从技术视角介绍下跨平台WebCanvas的架构设计以及一些关键模块的实现方案。
+了解视觉稿转 DSL 和 DSL 转代码的实现逻辑。
+
+### 2、[跨平台Web Canvas渲染引擎架构的设计与思考](https://mp.weixin.qq.com/s/-_4KZx54DblCylzh-kjJtw)
+
+这篇文章主要从技术视角介绍跨平台 WebCanvas 的架构设计以及一些关键模块的实现方案。
