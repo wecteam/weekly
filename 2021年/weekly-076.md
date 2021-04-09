@@ -11,8 +11,8 @@ WecTeam（维C团）是京东旗下京喜事业群的前端技术团队，主要
 
 ### 1、[CSS 实现优惠券的技巧](https://juejin.cn/post/6945023989555134494)
 
-使用mask实现优惠券的样式，值得借鉴和参考，很有价值。
+开发中怎么用 css 绘制优惠券一直是个头疼的问题。这篇文章介绍使用 css3 的 mask 遮罩，优雅的实现优惠券的样式。值得借鉴和参考。
 
 ### 2、[一套Flutter混排瀑布流解决方案](https://juejin.cn/post/6947963887807365157)
 
-这篇文章参考RecyclerView中StaggeredGridLayoutManager的布局思路实现一套支持普通流式卡片和横跨全屏的横条卡片混排的流式布局值得借鉴。
+这篇文章参考 RecyclerView 中 StaggeredGridLayoutManager 的布局思路，实现一套支持普通流式卡片和横跨全屏的横条卡片混排的流式布局。值得借鉴。
