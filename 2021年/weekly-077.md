@@ -11,7 +11,7 @@ WecTeam（维C团）是京东旗下京喜事业群的前端技术团队，主要
 
 ### 1、[Vue2 彻底从 Flow 重构为 TypeScript，焕然一新！](https://mp.weixin.qq.com/s/PZLiv8FiVlthE_VNnrMwUw)
 
-整个vue库从 flow 切换到 ts 。
+10w 行代码级别的改动，将整个 vue 库从 flow 切换到 ts。这是一个很好的 ts 改造的案例。
 
 ### 2、[二维码扫码登录原理](https://mp.weixin.qq.com/s/flqUkl2WLFCCjbXI6eYeLg)
 
