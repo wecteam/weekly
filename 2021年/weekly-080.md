@@ -15,4 +15,4 @@ WecTeam（维C团）是京东旗下京喜事业群的前端技术团队，主要
 
 ### 2、[探秘神奇的运动路径动画 Motion Path](https://mp.weixin.qq.com/s/NnZoe5rvIMw6A-WA3BoPEw)
 
-绍了运动路径动画 Motion Path，并且利用它实现了一些以往无法简单实现的路径动画效果，希望对你有帮助。
+介绍了运动路径动画 Motion Path，并且利用它实现了一些以往无法简单实现的路径动画效果，希望对你有帮助。
