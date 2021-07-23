@@ -14,6 +14,6 @@ WecTeam（维C团）是京东旗下京喜事业群的前端技术团队，主要
 【 HarmonyOS2.0 】正式发布，以 JavaScript 作为 IoT 应用开发的架构语言，这是继 SpaceX 上天之后 JavaScript 再一次成为开发领域的热点话题。
 
 
-### 2、[一文吃透 Webpack 核心原理](https://mp.weixin.qq.com/s/SbJNbSVzSPSKBe2YStn2Zw)
+### 2、[解读 AppStore 新功能：自定义产品页面和 A/B Test 工具](https://juejin.cn/post/6986478834040209445)
 
-webpack原理解析 搭配博主其他文一起阅读、提升对webpack的理解以及源码阅读能力。
+通过对AppStore“自定产品页面”、“产品页面优化”功能和工具，从而帮助您改进应用。
