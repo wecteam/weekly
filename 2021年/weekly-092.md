@@ -8,11 +8,10 @@ WecTeam（维C团）是京东旗下京喜事业群的前端技术团队，主要
 
 ## 周刊文章
 
-### 1、[该来的还是来了，盘点 ES12 中有新特性！](https://mp.weixin.qq.com/s/_W9hskHKwAzOL6AV5DmKFg)
+### 1、[该来的还是来了，盘点 ES12 中的新特性](https://mp.weixin.qq.com/s/zbPh2rwdl-YofZZQcOVzNg)
 
-本文罗列部分【ECMAScript 2021】中的新特性，大部分在开发中编写代码的痛点问题都会在未来版本中解决，如文本所展示的，借助babel，也可以让我们提前使用新特性。
+本文讲解了 ECMAScript 2021（ES12）中的部分新特性，可以解决很多编码中的痛点问题。
 
 ### 2、[TypeScript 的另一面：类型编程](https://juejin.cn/post/6989796543880495135)
 
-本文通过从从最基础的泛型开始，到索引、映射、条件等类型，再到 is、in、infer等关键字以及工具类型，同时包含了TypeScript 4.x中的部分新特性，比较系统全面的介绍了TypeScript的类型编程部分。
-
+本文通过从从最基础的泛型开始，到索引、映射、条件等类型，再到 is、in、infer 等关键字以及工具类型，同时包含了 TypeScript 4.x 中的部分新特性，比较系统全面的介绍了 TypeScript 的类型编程。
