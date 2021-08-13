@@ -14,5 +14,4 @@ WecTeam（维C团）是京东旗下京喜事业群的前端技术团队，主要
 
 ### 2、[从前端视角看HarmonyOS](https://mp.weixin.qq.com/s/LHJCv5k4hyhsuiVJHf-5IQ)
 
-本文介绍HarmonyOS的基本概念，与安卓开发的异同，并从前端视角出发，讲述HarmonyOS对于开发的影响。通过JS UI架构出原生鸿蒙APP
-
+本文介绍 HarmonyOS 的基本概念，与安卓开发的异同，并从前端视角出发，讲述 HarmonyOS 对于开发的影响。通过 JS UI 架构出原生鸿蒙APP。
