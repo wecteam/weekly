@@ -6,6 +6,7 @@ WecTeam（维C团）是京东旗下[京喜事业群](http://wecteam.io/)的前�
 
 更多「原创」前端技术文章，欢迎关注微信公众号「WecTeam」。
 
+# WecTeam 周刊
 ## 2021
 
 **十月**：[第 099 期](2021年/weekly-099.md) | [第 100 期](2021年/weekly-100.md) :high_brightness:
