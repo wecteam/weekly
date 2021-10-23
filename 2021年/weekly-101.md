@@ -13,6 +13,6 @@ WecTeam（维C团）是京东旗下京喜事业群的前端技术团队，主要
 
 让我们跟随大佬的步伐学习一下SSR的代码优化思路，涉及Node、React 组件、性能、网络、docker 镜像、云上部署、灰度和发布等内容。
 
-### 2、[各流派React状态管理对比和原理实现](https://mp.weixin.qq.com/s/mpF6W-4dElu0UPed03oJQw)
+### 2、[各流派React状态管理对比和原理实现](https://mp.weixin.qq.com/s/h8uRkY8wzzP-ajmEIHkzwQ)
 
 该文章对现阶段React流行的状态管理方案进行深入对比。分析其原理、优缺点、适用场景等，让我们能够对React的三大状态管理方案有了更清晰的了解，能明白各自的优缺点，能够为项目开发解决什么痛点。
