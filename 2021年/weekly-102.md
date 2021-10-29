@@ -6,17 +6,17 @@ WecTeam（维C团）是京东旗下京喜事业群的前端技术团队，主要
 
 更多「原创」前端技术文章，欢迎关注微信公众号「WecTeam」。
 
-
 ## 周刊文章
 
 ### 1、[领域驱动设计(DDD)能给前端带来什么](https://mp.weixin.qq.com/s/fCP9Y9naiDvz6lQk3JZVlA)
 
-拓宽视野，领域驱动设计了解一下？
+领域驱动设计（domin-driven design）不同于传统的针对数据库表结构的设计，领域模型驱动设计是以提炼和转换业务需求中的领域知识为设计的起点。我们需要根据业务相关性、耦合的强弱程度、分离的关注点进行设计。
 
-### 2、[自如客APP裸眼3D效果的实现](https://juejin.cn/post/6989227733410644005?from=main_page)
+### 2、[自如APP裸眼3D效果的实现](https://juejin.cn/post/6989227733410644005?from=main_page)
 
-通过一些创新，提升了整个界面美感。
+自如 App 的 Banner 图设计已经出圈了，成为众多产品模仿的对象。本文讲了它的技术实现，在成熟的设计规范之外做一些尝试和创新，提升整个界面的美感。
 
 ### 3、[Flutter难点问题之GPU后台Crash](https://mp.weixin.qq.com/s/KVux8rYCPXcvDODUskinBQ)
 
-本文介绍了后台访问 GPU 导致 App 后台被杀的修复方案。通过在主线程接收 App 退到后台的通知（退到后台即表示 GPU 不可用），并设置一个 bool 变量，在实际渲染的线程中根据 bool 变量，来进行分支处理：GPU 可用时照常使用 GPU 渲染；GPU 不可用时降级用 CPU 渲染。一般使用 SyncSwitch 时，语义都带GpuDisabled ，因此 SetIfTrue 中才是 CPU 渲染的降级调用。
+针对 Flutter 在 iOS 后台时访问 GPU，导致 Crash 的问题，本文给出了原因说明，并给出了问题的修复方案；最后分享了在此基础上如何在其他三个场景解决该问题。 
+
