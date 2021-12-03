@@ -10,12 +10,12 @@ WecTeam（维C团）是京东旗下京喜事业群的前端技术团队，主要
 
 ### 1、[Next.js 强劲对手来了！ Remix 正式宣布开源](https://mp.weixin.qq.com/s/_LHjkkupb-ZMLEI5RhANvg)
 
-Github 标星 5K Star，由 React Router 原班团队打造的全栈框架 Remix 正式开源。
+Github 标星 5K Star，由 React Router 原班团队打造的全栈框架 Remix 正式开源。对标 Next.js，专注于 React 全栈框架领域。
 
 *推荐人：梅亚敏*
 
 ### 2、[为什么说 WASM 是 Web 的未来？](https://mp.weixin.qq.com/s/IOZL2W3kZWbjPJTAdV4gzg)
 
-WebAssembly 填补了 Web 一直以来缺失的部分：媲美原生的性能。
+为什么说 WebAssembly 是 Web 的未来？因为它填补了 Web 一直以来缺失的部分：媲美原生的性能。
 
 *推荐人：李刚松*
