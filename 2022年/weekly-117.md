@@ -18,7 +18,7 @@ Vite 是新一代的前端构建工具，在尤雨溪开发 Vue3.0 的时候诞�
 
 _推荐人：李铭铜_
 
-### 3、[降低前端业务复杂度新视角：状态机范式](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651251878&idx=1&sn=a26de64a160f8339b4fca95e789a5f41)
+### 3、[降低前端业务复杂度新视角：状态机范式](https://mp.weixin.qq.com/s/SivN4Cbn1RRakEVuenZrHg)
 
 处理复杂的业务逻辑和状态尽量摆脱 if/else 思维，使用状态机将复杂逻辑抽象化处理能有效简化开发降低维护成本。
 
