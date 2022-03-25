@@ -10,13 +10,13 @@ WecTeam（维C团）是京东旗下京喜事业群的前端技术团队，主要
 
 ### 1、[DevTools 实现原理与性能分析实战](https://mp.weixin.qq.com/s/FOAVM8LYzkiL7qvU1dAzxA)
 
-2022年Chrome即将迎来三位数版本号，本文通过分析 Chrome 的 DevTools 的技术实现，特别是在浏览器内核中的实现部分，来展示这款被万千开发者所喜爱的开发工具背后的秘密。
+2022年Chrome即将迎来三位数版本号，本文通过分析 Chrome 的 DevTools 的技术实现，特别是在浏览器内核中的实现，来展示这款被万千开发者所喜爱的开发工具背后的秘密。
 
 *推荐人：张志豪*
 
- 
+
 ### 2、[2021 年 CSS 使用趋势](https://mp.weixin.qq.com/s/iFbpBUgoWd8Rj7As62oceA)
 
-文章通过分析820万个网站，来看一下2021年css使用趋势
+文章通过分析820万个网站，来看看2021年CSS在不同方面的使用趋势。
 
 *推荐人：朱志玉*
