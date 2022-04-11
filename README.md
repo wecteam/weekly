@@ -8,7 +8,7 @@ WecTeam（维 C 团）是京东旗下[京喜事业群](http://wecteam.io/)的前
 
 ## 2022
 
-**四月**：[第 117 期](2022年/weekly-120.md):high_brightness:
+**四月**：[第 120 期](2022年/weekly-120.md):high_brightness:
 
 **三月**：[第 117 期](2022年/weekly-117.md) | [第 118 期](2022年/weekly-118.md) | [第 119 期](2022年/weekly-119.md)
 
