@@ -8,16 +8,16 @@ WecTeam（维 C 团）是京东旗下京喜事业群的前端技术团队，主�
 
 ### 1、[Flutter 2.10 | 一文解读重点更新](https://mp.weixin.qq.com/s/FCvLKBjT2zDfHpLCjVuLyA)
 
-Flutter 对 Windows 支持的重大更新、几项性能方面的重大改进、在框架中新增对图标和颜色的支持，以及一些开发工具的改进。
+Flutter 2.10 闪亮登场，这个版本带来了许多好消息，包括Flutter 对 Windows 支持的重大更新、几项性能方面的重大改进、在框架中新增对图标和颜色的支持，以及一些开发工具的改进。
 
 _推荐人：梁增海_
 
-### 2、[ Web 内核微信小程序框架实践](https://mp.weixin.qq.com/s/S3Fj3cbXurIlgopm6_cL0w)
+### 2、[Web 内核微信小程序框架实践](https://mp.weixin.qq.com/s/S3Fj3cbXurIlgopm6_cL0w)
 
 跟着微信大佬一起学习小程序框架设计思路，从不一样的角度理解小程序。
 
 ### 3、[从实现原理看低代码](https://zhuanlan.zhihu.com/p/451340998)
 
-深入剖析低代码的实现原理，值得一读
+深入剖析低代码的实现原理，值得一读。
 
 _推荐人：李刚松_
